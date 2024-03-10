@@ -1,0 +1,11 @@
+FractalCharacteristic	Value
+N	50
+D	2.1
+D_actual	2.42618970890999
+G	4.80408206177406e-12
+gamma	1.5
+v	0.001
+v_actual	0.0013449833873813
+mean	-0.0329368978485197
+skew	-1.05339798720525e-06
+seed	74
